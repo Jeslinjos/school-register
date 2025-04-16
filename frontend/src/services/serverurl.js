@@ -1,0 +1,1 @@
+export const serverur = 'http://localhost:5173'
